@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-11T11:02:57 IST" name="Default suite" finished-at="2023-02-11T11:03:31 IST" duration-ms="34789">
+    <groups>
+    </groups>
+    <test started-at="2023-02-11T11:02:57 IST" name="Default test" finished-at="2023-02-11T11:03:31 IST" duration-ms="34789">
+      <class name="com.qa.jupiter.tests.ContactPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.jupiter.tests.ContactPageTest@4d465b11]" started-at="2023-02-11T11:02:57 IST" name="setup" finished-at="2023-02-11T11:03:01 IST" duration-ms="4244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateConfirmationMessage()[pri:1, instance:com.qa.jupiter.tests.ContactPageTest@4d465b11]" started-at="2023-02-11T11:03:01 IST" name="validateConfirmationMessage" finished-at="2023-02-11T11:03:17 IST" duration-ms="16336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateConfirmationMessage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.jupiter.tests.ContactPageTest@4d465b11]" started-at="2023-02-11T11:03:17 IST" name="teardown" finished-at="2023-02-11T11:03:17 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.jupiter.tests.ContactPageTest@4d465b11]" started-at="2023-02-11T11:03:17 IST" name="setup" finished-at="2023-02-11T11:03:21 IST" duration-ms="3578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateContactPage()[pri:2, instance:com.qa.jupiter.tests.ContactPageTest@4d465b11]" started-at="2023-02-11T11:03:21 IST" name="validateContactPage" finished-at="2023-02-11T11:03:31 IST" duration-ms="10335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.jupiter.tests.ContactPageTest@4d465b11]" started-at="2023-02-11T11:03:31 IST" name="teardown" finished-at="2023-02-11T11:03:31 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.jupiter.tests.ContactPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
